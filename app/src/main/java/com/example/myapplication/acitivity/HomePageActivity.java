@@ -2,6 +2,8 @@ package com.example.myapplication.acitivity;
 
 import android.os.Bundle;
 
+import com.example.myapplication.R;
+import com.example.myapplication.databinding.ActivityHomePageBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,7 +12,6 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.myapplication.acitivity.databinding.ActivityHomePageBinding;
 
 public class HomePageActivity extends AppCompatActivity {
 
